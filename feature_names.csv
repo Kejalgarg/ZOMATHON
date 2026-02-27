@@ -1,0 +1,17 @@
+feature
+City
+Type_of_restaurant
+Weatherconditions
+Road_traffic_density
+Restaurant_rating
+Restaurant_load
+Number_of_delivery_partners_nearby
+Distance_km
+Dynamic_Surge_Multiplier
+Dine_in_peak_flag
+Machine_breakdown_flag
+Festival
+multiple_deliveries
+hour_of_day
+day_of_week
+is_weekend

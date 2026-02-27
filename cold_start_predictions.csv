@@ -1,0 +1,6 @@
+Restaurant,Estimated KPT,Confidence,Data Points,Recommendation
+Delhi - Cloud Kitchen,36.7,Medium (based on city avg),None (cold-start),Switch to full model after 50 orders
+Mumbai - Home Kitchen,36.5,Medium (based on city avg),None (cold-start),Switch to full model after 50 orders
+Bangalore - Dine-in,36.5,Medium (based on city avg),None (cold-start),Switch to full model after 50 orders
+Chennai - Cloud Kitchen,36.6,Medium (based on city avg),None (cold-start),Switch to full model after 50 orders
+Kolkata - Home Kitchen,36.5,Medium (based on city avg),None (cold-start),Switch to full model after 50 orders
